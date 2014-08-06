@@ -10,8 +10,8 @@ cin>>a>>b;
 sum=a+b;
 
 cout<<"Sum is : "<<sum;
+cout<<"Hello......";
 
 return 0;
 
 }
-cout<<"Hello......";
